@@ -1,6 +1,6 @@
 # Product_Alternates
 
-# Help shoppers find product “alternates”
+# Help shoppers find product alternates
 
 When you go shopping, you may have noticed that some of the products are available in “alternate choices” of colors, prints, etc. 
 
